@@ -4,6 +4,18 @@ This project contains all resources useful to recreate a high-accuracy small UWB
 
 ![IMG-1964](https://github.com/timlefevre/lazy-drones/assets/135974381/f928a309-f3ac-46c2-b73e-ad53ba0b065d)
 
-## Experiment videos
+## Videos of experiments
 
-These will be published here on demonstration day of the project, on the 16th of June, at Imperial College London.
+Videos of the experimental scenarios will be published here on the 16th of June, during demonstration day of the project, at Imperial College London.
+
+## UAV magnetic battery platics parts
+
+## UAV software
+
+## UAV control script
+
+## UAV extra protective housing
+
+## UWB anchor plastic mounts
+
+## UWB station plywood structure laser cutting files
