@@ -1,4 +1,4 @@
-# lazy-drones
+Development of a UWB station
 
 A paradigm shift of ever-increasing automation is pushing for the development of smart Unmanned Aerial Vehicle (UAV) appli-
 cations to achieve efficiencies in urban environments. However, their implementation has proved challenging due to several risks
