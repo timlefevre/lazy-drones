@@ -6,8 +6,6 @@ This project contains all resources useful to recreate a high-accuracy small UWB
 
 ## [Videos of experiments]()
 
-Videos of the experimental scenarios will be published here on the <ins>16th of June</ins>, during demonstration day of the project, at Imperial College London.
-
 ## [UAV magnetic battery platics parts](https://drive.google.com/drive/folders/1VwCp4C94xpuBIQwhsWLjKrjFUaEH0sl3?usp=sharing)
 
 ## [UAV firmware](https://drive.google.com/drive/folders/1b8kIeFqeRqSpr0op0KokUJjvZHw7a4Sk?usp=sharing)
